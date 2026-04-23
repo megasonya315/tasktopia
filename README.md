@@ -14,7 +14,6 @@ Then:
 
 ## Features
 ### Task Management
-- User authentication (registration, login)
 - Create, edit, and delete tasks
 - Task categories
 - Task priorities
@@ -23,5 +22,5 @@ Then:
 ## Tech Stack
 - **Backend:** Java
 - **Database:** PostgreSQL
-- **Frontend:** React
+- **Frontend:** React TypeScript
 
